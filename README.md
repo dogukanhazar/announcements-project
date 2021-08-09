@@ -73,7 +73,7 @@ Go to the project directory
 
 ## API Reference
 
-- For more details (swagger): https://localhost:5001/swagger/index.html 
+- For more details (swagger) [after run api locally](https://github.com/dogukanhazar/announcements-project/blob/main/README.md#run-locally-the-api-server): https://localhost:5001/swagger/index.html 
 
 #### Get items
 
